@@ -1,12 +1,16 @@
-![Coding](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Shahjalal-Dip&color=blueviolet" />
+</p>
+---
+
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 ---
 
 <h1 align="center">Hi there 👋, I am Shah Jalal Dip</h1>
-
 ---
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=2000&pause=2000&color=F72977&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Competitive+Programmer;PERN+Stack+Developer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=2000&pause=2000&color=F72977&center=true&vCenter=true&width=475&lines=Aspiring+Software+Engineer;Competitive+Programmer;PERN+Stack+Developer"/>
 </h1>
 
 ---
@@ -29,23 +33,30 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding" width="400" align="right">
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding" width="300" align="right">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Shahjalal-Dip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://fb.com/shahjalal.dip.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-
-<a href="https://www.codechef.com/users/codeweaverdip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/profile/Dip777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-
-<a href="https://codeforces.com/profile/bbrave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CF" height="30" width="40" /></a>
-
-<a href="https://leetcode.com/u/mickey_mouse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/Shahjalal-Dip" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/shahjalal.dip.1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/codeweaverdip" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/Dip777" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/bbrave" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/mickey_mouse/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+  </a>
 </p>
 
----
 
 ### 🌱 I’m currently learning
 
@@ -75,7 +86,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shahjalal-Dip&theme=dark&border_radius=10&short_numbers=true)](https://git.io/streak-stats)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shahjalal-Dip&color=blueviolet" />
-</p>
