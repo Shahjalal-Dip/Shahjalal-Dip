@@ -42,8 +42,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahjalaldip&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahjalaldip&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahjalal-Dip&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahjalal-Dip&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahjalaldip&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shahjalal-Dip&theme=radical" />
 </p>
 
 ---
@@ -67,5 +67,5 @@
 ### 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahjalaldip&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=Shahjalal-Dip&color=blueviolet" />
 </p>
