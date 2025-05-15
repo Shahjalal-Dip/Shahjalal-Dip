@@ -56,12 +56,20 @@
 
 ---
 
-### 📞 Contact Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/Shahjalal-Dip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shahjalal-Dip" height="30" width="40" /></a>
 
-- 📧 Email: shahjalaldip246@gmail.com  
-- 📍 Location: Dhaka, Bangladesh  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shahjalal-dip)
+<a href="https://fb.com/shahjalal.dip.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shahjalal-Dip" height="30" width="40" /></a>
 
+<a href="https://codeforces.com/profile/bbrave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Shahjalal-Dip" height="30" width="40" /></a>
+</p>
+
+<a href="https://www.codechef.com/users/codeweaverdip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="Shahjalal-Dip" height="30" width="40" /></a>
+</p>
+
+<a href="https://leetcode.com/u/mickey_mouse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Shahjalal-Dip" height="30" width="40" /></a>
+</p>
 ---
 
 ### 👀 Profile Views
