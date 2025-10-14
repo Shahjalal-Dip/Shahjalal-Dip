@@ -9,7 +9,7 @@
 <h1 align="center">Hi there 👋, I am Shah Jalal Dip</h1>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=2000&pause=2000&color=F72977&center=true&vCenter=true&width=475&lines=Aspiring+Software+Engineer;Competitive+Programmer;PERN+Stack+Developer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=2000&pause=2000&color=%234DF79A&center=true&vCenter=true&width=475&lines=Aspiring+Software+Engineer;Competitive+Programmer;PERN+Stack+Developer"/>
 </h1>
 
 ---
