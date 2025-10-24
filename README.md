@@ -74,7 +74,7 @@
 
 ### 🌱 I’m currently learning
 
-- Full Stack Web Development with the **PERN Stack**
+- ASP.NET Core Web Development
 - Advanced Algorithms and Data Structures for **Competitive Programming**
 - Database Management using **PostgreSQL** and **Oracle SQL**
 
