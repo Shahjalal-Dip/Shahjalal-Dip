@@ -96,6 +96,12 @@
 </p>
 
 ---
+<div align="center">
+    
+  ![snake gif](https://github.com/Shahjalal-Dip/Shahjalal-Dip/blob/output/github-snake-dark.svg)
+</div>
+
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shahjalal-Dip&theme=dark&border_radius=10&short_numbers=true)](https://git.io/streak-stats)
 
