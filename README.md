@@ -12,8 +12,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=7C3AED&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Competitive+Programmer;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahjalal-Dip&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=A78BFA" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahjalal-Dip&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED" alt="Top Langs" height="165" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahjalal-dip&theme=city_lights" height="160" alt="Top Languages" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahjalal-dip&theme=city_lights" height="160" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -76,11 +77,11 @@
 
 ## 🌱 Currently learning
 
-| Area | Focus |
-|------|--------|
-| **Web** | ASP.NET Core Web Development |
+| Area           | Focus                                                             |
+| -------------- | ----------------------------------------------------------------- |
+| **Web**        | ASP.NET Core Web Development                                      |
 | **Algorithms** | Advanced Algorithms & Data Structures for Competitive Programming |
-| **Databases** | PostgreSQL & Oracle SQL |
+| **Databases**  | PostgreSQL & Oracle SQL                                           |
 
 ---
 
@@ -141,6 +142,6 @@
 
 ### Thanks for visiting
 
-*"Code is poetry written in logic."*
+_"Code is poetry written in logic."_
 
 </div>
