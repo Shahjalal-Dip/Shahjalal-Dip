@@ -23,8 +23,6 @@
 
 ---
 
-### 💬 Quote
-
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i> — John Johnson
 </p>
@@ -53,6 +51,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </td>
 <td align="center">
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
@@ -75,31 +74,12 @@
 
 ---
 
-## 🌱 Currently learning
-
-| Area           | Focus                                                             |
-| -------------- | ----------------------------------------------------------------- |
-| **Web**        | ASP.NET Core Web Development                                      |
-| **Algorithms** | Advanced Algorithms & Data Structures for Competitive Programming |
-| **Databases**  | PostgreSQL & Oracle SQL                                           |
-
----
-
 ## 📊 Contribution graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahjalal-Dip&theme=react-dark&hide_border=true&area=true&color=7C3AED" alt="Contribution graph" />
 </p>
 
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shahjalal-Dip&theme=radical&no-frame=true&no-bg=true&column=7" alt="Trophies" />
-</p>
-
----
 
 ## 🤝 Connect with me
 
@@ -130,18 +110,10 @@
 
 ---
 
-## 🐍 Contribution snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shahjalal-Dip/Shahjalal-Dip/output/github-snake-dark.svg" alt="Snake game" />
 </p>
 
 ---
 
-<div align="center">
 
-### Thanks for visiting
-
-_"Code is poetry written in logic."_
-
-</div>
