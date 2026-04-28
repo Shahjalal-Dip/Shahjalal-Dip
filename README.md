@@ -12,7 +12,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=7C3AED&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Competitive+Programmer;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahjalal-dip&theme=city_lights" height="160" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahjalal-dip&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahjalal-dip&theme=city_lights" height="160" alt="GitHub Stats" />
 </p>
