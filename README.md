@@ -1,9 +1,6 @@
 <div align="center">
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Shahjalal-Dip&color=7C3AED&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Shahjalal-Dip?color=7C3AED&label=Followers&style=for-the-badge" alt="Followers" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff" />
 
 <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" width="100%" alt="Banner" />
 
@@ -12,9 +9,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=7C3AED&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Competitive+Programmer;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahjalal-dip&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahjalal-Dip&theme=city_lights" height="160" alt="GitHub Stats" /> 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahjalal-dip&theme=city_lights" height="160" alt="GitHub Stats" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shahjalal-Dip&theme=city_lights" height="160" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahjalal-Dip&theme=city_lights&hide_border=true" height="160" alt="Top Languages" /> </p>
 </p>
 
 <p align="center">
@@ -52,6 +53,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-AEB2D5?style=flat-square&logo=php&logoColor=white" />
 </td>
 <td align="center">
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
@@ -115,5 +117,7 @@
 </p>
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
 
 
