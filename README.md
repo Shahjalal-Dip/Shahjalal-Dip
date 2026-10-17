@@ -120,9 +120,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahjalal-dip&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahjalal-dip&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shahjalal-Dip&theme=dark" />
-<img src="https://streak-stats.demolab.com?user=Shahjalal-Dip&theme=dracula&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=Shahjalal-Dip&theme=dark&hide_border=true&border_radius=10" />
 
 <br/><br/>
 
